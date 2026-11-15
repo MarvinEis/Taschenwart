@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: Taschenwart
+## Notes: Fragt bei vollen Taschen, ob das billigste Item fuer wertvolleren Loot weggeworfen werden soll.
+## Author: Marvin & Jan
+## Version: 0.1.3
+## SavedVariables: TaschenwartDB
+## SavedVariablesPerCharacter: TaschenwartCharDB
+## OptionalDeps: Auctionator
+
+Taschenwart.lua
